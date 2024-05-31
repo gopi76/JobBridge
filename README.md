@@ -1,6 +1,3 @@
-# JobBridge
-Connecting job seekers directly to HR Mails (Connecting job seekers directly to HR Mail for an enquiry of internships or full time jobs)
-
 # 🚀 Introducing JobBridge: Connecting Job Seekers Directly to HR Mails! 🚀
 
 I'm excited to share JobBridge, a powerful tool designed to help job seekers send emails to HR mails effortlessly and efficiently, all without opening Gmail! 📧✨
