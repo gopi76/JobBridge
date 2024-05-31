@@ -17,8 +17,8 @@ Every month, there are numerous openings in various companies. Job seekers may f
 **Privacy**: By privately sharing applications with HR mails, users maintain confidentiality and control over their job search process.
 
 ## Project Images :
-![Project Image 1](project_images/0.jpg)
-![Project Image 2](project_images/1.jpg)
+![Project Image 1](project_images/0.png)
+![Project Image 2](project_images/1.png)
 
 
 ## 🌟 Key Features :
