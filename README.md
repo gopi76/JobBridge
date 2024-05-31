@@ -20,6 +20,10 @@ Every month, there are numerous openings in various companies. Job seekers may f
 ![Project Image 1](project_images/0.png)
 ![Project Image 2](project_images/1.png)
 
+## Video Demo
+Watch the demo video to see JobBridge in action:
+[![JobBridge Demo](https://img.youtube.com/vi/gADj51e5MW0/0.jpg)](https://youtu.be/gADj51e5MW0)
+
 
 ## 🌟 Key Features :
 
